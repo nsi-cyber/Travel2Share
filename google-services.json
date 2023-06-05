@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96994693841",
+    "firebase_url": "https://travel2share-95c69-default-rtdb.firebaseio.com",
+    "project_id": "travel2share-95c69",
+    "storage_bucket": "travel2share-95c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96994693841:android:f29c29e1840a8ea88c2bf0",
+        "android_client_info": {
+          "package_name": "com.nsicyber.travel2share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96994693841-gk0vv7fnf0vmf5rmcqcb6nd8ppsiqd9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nsicyber.travel2share",
+            "certificate_hash": "2027f477649826055e550cdc38633e79f2375a12"
+          }
+        },
+        {
+          "client_id": "96994693841-dthnj23ift3j9qbsvuc2n1g45ikcmd5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKQhMBlc6XMa35C7xvPNSUu7xil9i8tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96994693841-dthnj23ift3j9qbsvuc2n1g45ikcmd5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
